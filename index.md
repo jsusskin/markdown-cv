@@ -33,16 +33,13 @@ Neural networks, unsupervised learning, generative models, vision, reinforcement
 __Postdoctoral Scientist, University of California at San Diego.__
 
 - Machine Perception Laboratory
-
 - Computer vision, machine learning, neural nets, and behavioral experiments for facial expression analysis
 
 `2004-2010`
 __Ph.D, University of Toronto.__
 
 - Psychology, Cognitive Neuroscience Machine Learning
-
 - Advisors: [Adam K. Anderson](https://www.human.cornell.edu/people/aka47) (Psychology), [Geoffrey E. Hinton](https://www.cs.toronto.edu/~hinton/) (Computer Science)
-
 - Thesis: [On Interpreting Faces with Neurally Inspired Generative Models](https://tspace.library.utoronto.ca/bitstream/1807/29884/6/Susskind_Joshua_M_201106_PhD_thesis.pdf)
 
 
