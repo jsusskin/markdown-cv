@@ -6,14 +6,14 @@ title: Joshua M. Susskind's CV
 Machine Learning Research Scientist, Manager.
 
 <div id="webaddress">
-<a href="mailto://jsusskind[at]apple[dot]com">Email</a>
-| <a href="https://scholar.google.com/citations?hl=en&user=Sv2TGqsAAAAJ">Google Scholar page</a>
+<a href="mailto:jsusskind[at]apple[dot]com">Email</a>
+| <a href="https://scholar.google.com/citations?hl=en&user=Sv2TGqsAAAAJ">Google Scholar</a>
 | <a href="https://www.linkedin.com/in/joshua-susskind-8ab2ab5/">LinkedIn</a>
 | <a href="https://twitter.com/jsusskin">Twitter</a>
 </div>
 
 
-## Currently
+<!-- ## Currently
 
 Standing on the shoulders of giants
 
@@ -24,7 +24,7 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Cooling, power series, optics, alchemy, planetary motions, apples. -->
 
 
 ## Education
