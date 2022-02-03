@@ -11,35 +11,7 @@ Research Scientist, Manager.
 | <a href="https://www.linkedin.com/in/joshua-susskind-8ab2ab5/">LinkedIn page</a>
 </div>
 
-
-<!-- ## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
- -->
-## Education
-
-`1995-2003`
-__University of California, San Diego, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+ 
 
 
 
