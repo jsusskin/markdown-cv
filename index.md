@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Joshua M. Susskind's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Joshua M. Susskind
+Machine Learning Research Scientist, Manager.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="jsusskind@apple.com">jsusskind@apple.com</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
