@@ -15,7 +15,7 @@ Machine Learning Research Scientist.
 
 ## Currently
 
-Machine Learning Research Manager at <a href="apple.com">Apple</a>
+Machine Learning Research Scienist and Manager at <a href="apple.com">Apple</a>
 
 ### Specialized in
 
