@@ -55,6 +55,12 @@ __BASc, University of California at San Diego.__
 
 ### Research Assistantships
 
+`2001-2004` Research Associate, UC San Diego Institute for Neural Computation
+
+`2003-2004` Faculty Mentor Program, UC San Diego Cognitive Science
+
+`2010` Visiting Graduate Student, UC San Diego Institute for Neural Computation
+
 ### Teaching
 
 `2007`
