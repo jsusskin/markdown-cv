@@ -28,8 +28,8 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
  -->
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`1995-2003`
+__University of California, San Diego, Grantham.__
 
 `June 1661 - now`
 __Trinity College, Cambridge__
