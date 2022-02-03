@@ -51,6 +51,16 @@ __BASc, University of California at San Diego.__
 
 ## Professional Experience
 
+### Industry Positions
+
+### Research Assistantships
+
+### Teaching
+
+`2007`
+Instructor, Honours Statistics, University of Toronto, Department of Psychology
+
+
 `1600`
 __Royal Mint__, London
 
