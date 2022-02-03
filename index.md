@@ -29,6 +29,13 @@ Neural networks, unsupervised learning, generative models, vision, reinforcement
 
 ## Education
 
+`2011-2012`
+__Postdoctoral Scientist, University of California at San Diego.__
+
+- Machine Perception Laboratory
+
+- Computer vision, machine learning, neural nets, and behavioral experiments for facial expression analysis
+
 `2004-2010`
 __Ph.D, University of Toronto.__
 
