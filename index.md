@@ -1,17 +1,18 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Joshua Matthew Susskind's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Joshua Matthew Susskind
+Research Scientist, Manager.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="jsusskind [at] apple [dot] com">Email: jsusskind [at] apple [dot] com | 
+<a href="https://scholar.google.com/citations?user=Sv2TGqsAAAAJ&hl=en">Google Scholar</a>
+| <a href="https://www.linkedin.com/in/joshua-susskind-8ab2ab5/">LinkedIn page</a>
 </div>
 
 
-## Currently
+<!-- ## Currently
 
 Standing on the shoulders of giants
 
@@ -24,7 +25,7 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
-
+ -->
 ## Education
 
 `1654-1660`
