@@ -3,7 +3,7 @@ layout: cv
 title: Joshua M. Susskind's CV
 ---
 # Joshua M. Susskind
-Machine Learning Research Scientist, Manager.
+Machine Learning Research Scientist.
 
 <div id="webaddress">
 <a href="mailto:jsusskind[at]apple[dot]com">Email</a>
@@ -13,18 +13,18 @@ Machine Learning Research Scientist, Manager.
 </div>
 
 
-<!-- ## Currently
+## Currently
 
-Standing on the shoulders of giants
+Machine Learning Research Manager at <a href="apple.com">Apple</a>
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Deep learning research including fundamental ML, methods innovation, and future applications
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples. -->
+Neural networks, unsupervised learning, generative models, vision, reinforcement learning, robotics.
 
 
 ## Education
