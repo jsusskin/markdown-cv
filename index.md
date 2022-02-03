@@ -50,12 +50,13 @@ __BASc, University of California at San Diego.__
 
 
 ## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+`2011` CGS/UMI Distinguished Dissertation Nomination
+`2009` Ontario Graduate Scholarship
+`2009` Elsevier/Vision Research Travel Award (VSS Student Travel Award)
+`2007` E.F. Burton and F.W. Burton Graduate Scholarship
+`2007` University of Toronto, Department of Psychology Travel Grant Award
+`2006` National Science Foundation Graduate Research Fellowship Competition, Honourable Mention 2004 Computer Vision and Pattern Recognition Travel Grant Award
+`2003` Instructional Assistant Excellence Award, UC San Diego, Cognitive Science
 
 
 ## Publications
