@@ -29,8 +29,14 @@ Neural networks, unsupervised learning, generative models, vision, reinforcement
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`1995-2003`
+__Ph.D, University of California at San Diego.__
+
+- Psychology, Cognitive Neuroscience Machine Learning
+
+- Advisors: Adam K. Anderson (Psychology), Geoffrey E. Hinton (Computer Science)
+
+- Thesis: <a href="https://tspace.library.utoronto.ca/bitstream/1807/29884/6/Susskind_Joshua_M_201106_PhD_thesis.pdf">Interpreting Faces with Neurally Inspired Generative Models</a>
 
 `June 1661 - now`
 __Trinity College, Cambridge__
