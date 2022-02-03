@@ -53,6 +53,16 @@ __BASc, University of California at San Diego.__
 
 ### Industry Positions
 
+`2008-2009` Software Developer, Machine Perception Tech.
+
+`2008-2009` Mathematical Algorithm Programmer, Flux, Inc.
+
+`1999-2001` Senior Programmer, Luth Research, Inc.
+
+`1999` Software Developer, OTVnet, Inc.
+
+`1997-1999` Technical Support Staff, R&D, Salepoint, Inc.
+
 ### Research Assistantships
 
 `2001-2004` Research Associate, UC San Diego Institute for Neural Computation
@@ -60,6 +70,7 @@ __BASc, University of California at San Diego.__
 `2003-2004` Faculty Mentor Program, UC San Diego Cognitive Science
 
 `2010` Visiting Graduate Student, UC San Diego Institute for Neural Computation
+
 
 ### Teaching
 
