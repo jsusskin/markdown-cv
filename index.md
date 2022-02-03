@@ -78,22 +78,6 @@ __BASc, University of California at San Diego.__
 Instructor, Honours Statistics, University of Toronto, Department of Psychology
 
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-## Teaching Experience
-
-`2007`
-Instructor, Honours Statistics, University of Toronto, Department of Psychology
-
-
 ## Fellowships and Awards
 `2011` CGS/UMI Distinguished Dissertation Nomination
 
