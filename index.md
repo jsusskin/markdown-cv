@@ -6,8 +6,9 @@ title: Joshua M. Susskind's CV
 Machine Learning Research Scientist, Manager.
 
 <div id="webaddress">
-<a href="jsusskind@apple.com">jsusskind@apple.com</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="jsusskind[at]apple[dot]com">jsusskind [at] apple [dot] com</a>
+| <a href="https://scholar.google.com/citations?hl=en&user=Sv2TGqsAAAAJ">My Google Scholar page</a>
+| <a href="https://www.linkedin.com/in/joshua-susskind-8ab2ab5/">My LinkedIn page</a>
 </div>
 
 
