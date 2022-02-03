@@ -53,6 +53,9 @@ __BASc, University of California at San Diego.__
 
 ### Industry Positions
 
+`2012-2016` __Co-Founder, Lead Deep Learning Scientist, Emotient, Inc.__
+- Video-based facial expression recognition software for multiple verticals including healthcare, audience response, and scientific tools. Company was acquired by Apple in 2016.
+
 `2008-2009` __Software Developer, Machine Perception Tech.__
 
 `2008-2009` __Predictive Analytics Consultant, Flux, Inc.__
