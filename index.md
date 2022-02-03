@@ -100,25 +100,25 @@ __Instructor, Honours Statistics, University of Toronto, Department of Psycholog
 ### Journals
 
 `2010`
-West, G.L., Al-Aidroos, N., Susskind, J.M., and Pratt, J. (2010). Emotion and Action: The Effect of Fear on Saccadic Performance. __Experimental Brain Research__.
+West, G.L., Al-Aidroos, N., Susskind, J.M., and Pratt, J. (2010). [Emotion and Action: The Effect of Fear on Saccadic Performance.](https://link.springer.com/article/10.1007/s00221-010-2508-8) __Experimental Brain Research__.
 
 `2009`
-Chapman, H.A., Kim, D.A., Susskind, J.M, and Anderson, A.K. (2009). In Bad Taste: Evidence for the Oral Origins of Moral Disgust. __Science__ 323(5918), p. 1222-1226.
+Chapman, H.A., Kim, D.A., Susskind, J.M, and Anderson, A.K. (2009). [In Bad Taste: Evidence for the Oral Origins of Moral Disgust.](https://www.science.org/doi/abs/10.1126/science.1165565) __Science__ 323(5918), p. 1222-1226.
 
 `2008`
-Susskind, J.M., and Anderson, A.K. (2008). Facial expression form and function. __Communicative and Integrative Biology__ 1(2).
+Susskind, J.M., and Anderson, A.K. (2008). [Facial expression form and function.](https://www.tandfonline.com/doi/abs/10.4161/cib.1.2.6999) __Communicative and Integrative Biology__ 1(2).
 
 `2008`
-Susskind, J.M., Lee, D.H., Cusi, A., Feiman, R., Grabski, W., and Anderson, A.K. (2008). Expressing fear enhances sensory acquisition. __Nature Neuroscience__ 11, p. 843-850.
+Susskind, J.M., Lee, D.H., Cusi, A., Feiman, R., Grabski, W., and Anderson, A.K. (2008). [Expressing fear enhances sensory acquisition.](https://www.nature.com/articles/nn.2138?mod=article_inline) __Nature Neuroscience__ 11, p. 843-850.
 
 `2008`
-Ellamil, M., Susskind, J.M., and Anderson, A.K. (2008). Examinations of identity invariance in facial expression adaptation. __Cognitive, Affective, and Behavioral Neuroscience__ 8(3), p.273-281.
+Ellamil, M., Susskind, J.M., and Anderson, A.K. (2008). [Examinations of identity invariance in facial expression adaptation.](https://link.springer.com/article/10.3758/CABN.8.3.273) __Cognitive, Affective, and Behavioral Neuroscience__ 8(3), p.273-281.
 
 `2008`
-Aviezer, H., Ran, H., Ryan, J., Grady, C., Susskind, J.M., Anderson, A.K., and Moscovitch, M. (2008). Angry, Disgusted or Afraid? Studies on the Malleability of Facial Expression Perception. __Psychological Science__ 19(1), p. 724-732.
+Aviezer, H., Ran, H., Ryan, J., Grady, C., Susskind, J.M., Anderson, A.K., and Moscovitch, M. (2008). [Angry, Disgusted or Afraid? Studies on the Malleability of Facial Expression Perception.](https://journals.sagepub.com/doi/abs/10.1111/j.1467-9280.2008.02148.x) __Psychological Science__ 19(1), p. 724-732.
 
 `2007`
-Susskind, J.M., Littlewort, G., Bartlett, M.S., Movellan, J.R., and Anderson, A.K. (2007). Human and computer recognition of facial expressions of emotion. __Neuropsychologia__ 45(1), p. 152-162.
+Susskind, J.M., Littlewort, G., Bartlett, M.S., Movellan, J.R., and Anderson, A.K. (2007). [Human and computer recognition of facial expressions of emotion.](https://www.sciencedirect.com/science/article/pii/S0028393206001746) __Neuropsychologia__ 45(1), p. 152-162.
 
 ### Conferences
 
