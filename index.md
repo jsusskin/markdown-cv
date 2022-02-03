@@ -55,9 +55,10 @@ __BASc, University of California at San Diego.__
 
 `2008-2009` Software Developer, Machine Perception Tech.
 
-`2008-2009` Mathematical Algorithm Programmer, Flux, Inc.
+`2008-2009` Predictive Analytics Consultant, Flux, Inc.
 
 `1999-2001` Senior Programmer, Luth Research, Inc.
+- Built a web site from the ground up and scaled it up to 3 million active members. Co-developed database framework for an online panel of survey respondents.
 
 `1999` Software Developer, OTVnet, Inc.
 
