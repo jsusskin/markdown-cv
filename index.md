@@ -53,30 +53,30 @@ __BASc, University of California at San Diego.__
 
 ### Industry Positions
 
-`2008-2009` Software Developer, Machine Perception Tech.
+`2008-2009` __Software Developer, Machine Perception Tech.__
 
-`2008-2009` Predictive Analytics Consultant, Flux, Inc.
+`2008-2009` __Predictive Analytics Consultant, Flux, Inc.__
 
-`1999-2001` Senior Programmer, Luth Research, Inc.
+`1999-2001` __Senior Programmer, Luth Research, Inc.__
 - Built a web site from the ground up and scaled it up to 3 million active members. Co-developed database framework for an online panel of survey respondents.
 
-`1999` Software Developer, OTVnet, Inc.
+`1999` __Software Developer, OTVnet, Inc.__
 
-`1997-1999` Technical Support Staff, R&D, Salepoint, Inc.
+`1997-1999` __Technical Support Staff, R&D, Salepoint, Inc.__
 
 ### Research Assistantships
 
-`2001-2004` Research Associate, UC San Diego Institute for Neural Computation
+`2001-2004` __Research Associate, UC San Diego Institute for Neural Computation__
 
-`2003-2004` Faculty Mentor Program, UC San Diego Cognitive Science
+`2003-2004` __Faculty Mentor Program, UC San Diego Cognitive Science__
 
-`2010` Visiting Graduate Student, UC San Diego Institute for Neural Computation
+`2010` __Visiting Graduate Student, UC San Diego Institute for Neural Computation__
 
 
 ### Teaching
 
 `2007`
-Instructor, Honours Statistics, University of Toronto, Department of Psychology
+__Instructor, Honours Statistics, University of Toronto, Department of Psychology__
 
 
 ## Fellowships and Awards
