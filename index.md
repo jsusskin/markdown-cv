@@ -78,12 +78,10 @@ __BASc, University of California at San Diego.__
 
 `2010` __Visiting Graduate Student, UC San Diego Institute for Neural Computation__
 
-
 ### Teaching
 
 `2007`
 __Instructor, Honours Statistics, University of Toronto, Department of Psychology__
-
 
 ## Fellowships and Awards
 `2011` CGS/UMI Distinguished Dissertation Nomination
@@ -117,8 +115,29 @@ etc. etc. etc.
 
 ### Patents
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2021` Neural rendering, US 2021/0848811 A1
+
+`2020` Neural network based image set compression, US 2021/0099731 A1
+
+`2020` Hybrid mode illumination for facial recognition authentication, US 2020/0082155 A1
+
+`2019` Addressing a loss-metric mismatch with adaptive loss alignment, US 2020/0327450 A1
+
+`2019` Periocular face recognition switching, US 2020/0082157 A1
+
+`2019` Filter and shutter based on image emotion content, US 2016/0350588 A1
+
+`2018` Spatial organization of images based on emotion face cloudsSpatial, US 2015/0071557 A1
+
+`2017` Model and ensemble compression for metric learning, US 2018/0157992 A1
+
+`2015` Collection of machine learning training data for expression recognition, US 2014/0321737 A1
+
+`2014` Automatic analysis of rapport, US 2015/0287054 A1
+
+`2014` Facilitating operation of a machine learning environment, US 2014/0310208 A1
+
+`2009` Weak hypothesis generation apparatus and method, learning apparatus and method, detection apparatus and method, facial expression learning apparatus and method, facial expression recognition apparatus and method, and robot apparatus, US 2005/0102246 A1
 
 
 <!-- ### Footer
