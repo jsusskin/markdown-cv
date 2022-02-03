@@ -12,7 +12,6 @@ Machine Learning Research Scientist.
 | <a href="https://twitter.com/jsusskin">Twitter</a>
 </div>
 
-
 ## Currently
 
 Machine Learning Research Scienist and Manager at <a href="apple.com">Apple</a>
@@ -21,11 +20,9 @@ Machine Learning Research Scienist and Manager at <a href="apple.com">Apple</a>
 
 Deep learning research including fundamental ML, methods innovation, and future applications
 
-
 ### Research interests
 
 Neural networks, unsupervised learning, generative models, vision, reinforcement learning, robotics.
-
 
 ## Education
 
@@ -42,12 +39,10 @@ __Ph.D, University of Toronto.__
 - Advisors: [Adam K. Anderson](https://www.human.cornell.edu/people/aka47) (Psychology), [Geoffrey E. Hinton](https://www.cs.toronto.edu/~hinton/) (Computer Science)
 - Thesis: [On Interpreting Faces with Neurally Inspired Generative Models](https://tspace.library.utoronto.ca/bitstream/1807/29884/6/Susskind_Joshua_M_201106_PhD_thesis.pdf)
 
-
 `1995-2003`
 __BASc, University of California at San Diego.__
 
 - Cognitive Science
-
 
 ## Professional Experience
 
@@ -98,10 +93,9 @@ __Instructor, Honours Statistics, University of Toronto, Department of Psycholog
 
 `2003` Instructional Assistant Excellence Award, UC San Diego, Cognitive Science
 
-
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!-- A list is also available [online](https://scholar.google.com/citations?hl=en&user=Sv2TGqsAAAAJ) -->
 
 ### Journals
 
@@ -111,7 +105,9 @@ Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 `1669`
 Lectiones opticæ.
 
-etc. etc. etc.
+### Conferences
+
+### Technical Reports
 
 ### Patents
 
