@@ -61,6 +61,12 @@ __Royal Mint__, London
 __Lucasian professor of Mathematics__, Cambridge University
 
 
+## Teaching Experience
+
+`2007`
+Instructor, Honours Statistics, University of Toronto, Department of Psychology
+
+
 ## Fellowships and Awards
 `2011` CGS/UMI Distinguished Dissertation Nomination
 
