@@ -53,6 +53,9 @@ __BASc, University of California at San Diego.__
 
 ### Industry Positions
 
+`2016-current` __Machine Learning Research Scienist and Manager, Apple__
+- Leading a deep learning research team doing a mix of fundamental machine learning research and technology development. Previously led the deep learning team responsible for the neural nets that power Face ID — specifically the face recognition technology.
+
 `2012-2016` __Co-Founder, Lead Deep Learning Scientist, Emotient, Inc.__
 - Video-based facial expression recognition software for multiple verticals including healthcare, audience response, and scientific tools. Company was acquired by Apple in 2016.
 
