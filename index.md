@@ -97,13 +97,16 @@ __Instructor, Honours Statistics, University of Toronto, Department of Psycholog
 
 <!-- A list is also available [online](https://scholar.google.com/citations?hl=en&user=Sv2TGqsAAAAJ) -->
 
-### Journals
+Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
+`2010`
+- West, G.L., Al-Aidroos, N., Susskind, J.M., and Pratt, J. (2010). Emotion and Action: The Effect of Fear on Saccadic Performance. Experimental Brain Research.
+- Chapman, H.A., Kim, D.A., Susskind, J.M, and Anderson, A.K. (2009). In Bad Taste: Evidence for the Oral Origins of Moral Disgust. Science 323(5918), p. 1222-1226.
+- Susskind, J.M., and Anderson, A.K. (2008). Facial expression form and function. Communicative and Integrative Biology 1(2).
+- Susskind, J.M., Lee, D.H., Cusi, A., Feiman, R., Grabski, W., and Anderson, A.K. (2008). Expressing fear enhances sensory acquisition. Nature Neuroscience 11, p. 843-850.
+- Ellamil, M., Susskind, J.M., and Anderson, A.K. (2008). Examinations of identity invariance in facial expression adaptation. Cognitive, Affective, and Behavioral Neuroscience 8(3), p.273-281.
+- Aviezer, H., Ran, H., Ryan, J., Grady, C., Susskind, J.M., Anderson, A.K., and Moscovitch, M. (2008). Angry, Disgusted or Afraid? Studies on the Malleability of Facial Expression Perception. Psychological Science 19(1), p. 724-732.
+- Susskind, J.M., Littlewort, G., Bartlett, M.S., Movellan, J.R., and Anderson, A.K. (2007). Human and computer recognition of facial expressions of emotion. Neuropsychologia 45(1), p. 152-162.
 
 ### Conferences
 
