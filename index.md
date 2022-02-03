@@ -41,7 +41,7 @@ __Ph.D, University of Toronto.__
 
 - Psychology, Cognitive Neuroscience Machine Learning
 
-- Advisors: Adam K. Anderson (Psychology), Geoffrey E. Hinton (Computer Science)
+- Advisors: [Adam K. Anderson](https://www.human.cornell.edu/people/aka47) (Psychology), [Geoffrey E. Hinton](https://www.cs.toronto.edu/~hinton/) (Computer Science)
 
 - Thesis: [On Interpreting Faces with Neurally Inspired Generative Models](https://tspace.library.utoronto.ca/bitstream/1807/29884/6/Susskind_Joshua_M_201106_PhD_thesis.pdf)
 
