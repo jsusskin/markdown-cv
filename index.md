@@ -97,7 +97,7 @@ __Instructor, Honours Statistics, University of Toronto, Department of Psycholog
 
 <!-- A list is also available [online](https://scholar.google.com/citations?hl=en&user=Sv2TGqsAAAAJ) -->
 
-Journals
+### Journals
 
 `2010`
 West, G.L., Al-Aidroos, N., Susskind, J.M., and Pratt, J. (2010). Emotion and Action: The Effect of Fear on Saccadic Performance. Experimental Brain Research.
