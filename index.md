@@ -29,8 +29,8 @@ Neural networks, unsupervised learning, generative models, vision, reinforcement
 
 ## Education
 
-`1995-2003`
-__Ph.D, University of California at San Diego.__
+`2005-2011`
+__Ph.D, University of Toronto.__
 
 - Psychology, Cognitive Neuroscience Machine Learning
 
@@ -38,16 +38,10 @@ __Ph.D, University of California at San Diego.__
 
 - Thesis: <a href="https://tspace.library.utoronto.ca/bitstream/1807/29884/6/Susskind_Joshua_M_201106_PhD_thesis.pdf">Interpreting Faces with Neurally Inspired Generative Models</a>
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`1995-2003`
+__BASc, University of California at San Diego.__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+- Cognitive Science
 
 
 ## Awards
