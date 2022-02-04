@@ -14,7 +14,7 @@ Machine Learning Research Scientist.
 
 ## Currently
 
-Machine Learning Research Scienist and Manager at <a href="http://apple.com">Apple</a>
+Machine Learning Research Scientist and Manager at <a href="http://apple.com">Apple</a>
 
 ### Research interests
 
@@ -44,7 +44,7 @@ __BASc, University of California at San Diego.__
 
 ### Industry Positions
 
-`2016-` __Machine Learning Research Scienist and Manager, Apple__
+`2016-` __Machine Learning Research Scientist and Manager, Apple__
 - Leading a deep learning research team doing a mix of fundamental machine learning research and technology development. Previously led the deep learning team responsible for the neural nets that power Face ID — specifically the face recognition technology.
 
 `2012-2016` __Co-Founder, Lead Deep Learning Scientist, Emotient, Inc.__
