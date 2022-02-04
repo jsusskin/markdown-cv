@@ -16,13 +16,9 @@ Machine Learning Research Scientist.
 
 Machine Learning Research Scienist and Manager at <a href="http://apple.com">Apple</a>
 
-### Specializing in
-
-Deep learning research including fundamental ML, methods innovation, and future applications
-
 ### Research interests
 
-Neural networks, unsupervised learning, generative models, vision, reinforcement learning, robotics
+Improving deep learning, empirical studies, unsupervised learning, generative models, perception, reinforcement learning, composition, robotics, neuroscience, creativity
 
 ## Education
 
