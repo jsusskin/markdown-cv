@@ -174,6 +174,9 @@ Littlewort, G., Bartlett, M. S., Fasel, I., Susskind, J.M., and Movellan, J.R. (
 
 ### Workshops, Posters and Demos
 
+`2020`
+Wu, Y., Zhai, S., Srivastava, N., Susskind, J.M., Zhang, J., Salakhutdinov, R., and Goh, H. (2020). [Uncertainty Weighted Offline Reinforcement Learning.](https://offline-rl-neurips.github.io/program/offrl_27.html) __NeurIPS Offline Reinforcement Learning Workshop 2020__.
+
 `2019`
 El-Nouby, A., Zhai, S., Taylor, G.W., and Susskind, J.M. (2019). [Skip-clip: Self-supervised spatiotemporal representation learning by future clip order ranking.](https://arxiv.org/abs/1910.12770) __ICCV Workshop on Large Scale Holistic Video Understanding 2019__.
 
