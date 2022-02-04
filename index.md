@@ -14,7 +14,7 @@ Machine Learning Research Scientist.
 
 ## Currently
 
-Machine Learning Research Scienist and Manager at <a href="apple.com">Apple</a>
+Machine Learning Research Scienist and Manager at <a href="http://apple.com">Apple</a>
 
 ### Specialized in
 
@@ -99,6 +99,17 @@ __Instructor, Honours Statistics, University of Toronto, Department of Psycholog
 
 ### Journals
 
+`2017`
+Chapman, H.A., Lee, D.H., Susskind, J.M., Bartlett, M.S., and Anderson, A.K. (2017). [The face of distaste: a preliminary study.](https://academic.oup.com/chemse/article/42/6/457/3806673?login=true) __Chemical senses 42__ (6), 457-463.
+
+`2014`
+Lee, D.H., Susskind, J.M., and Anderson, A.K. (2014). [Social transmission of the sensory benefits of eye widening in fear expressions.](https://journals.sagepub.com/doi/abs/10.1177/0956797612464500) __Psychological science__ 24 (6), 957-965.
+
+`2013`
+Todd, R.M., Schmitz, T.W., Susskind, J.M., and Anderson, A.K. (2013). [Shared neural substrates of emotionally enhanced perceptual and mnemonic vividness.](https://www.frontiersin.org/articles/10.3389/fnbeh.2013.00040/full) __Frontiers in behavioral neuroscience__ 7, 40.
+`2012`
+Todd, R.M., Talmi, D., Schmitz, T.W., Susskind, J.M., and Anderson, A.K. (2012). [Psychophysical and neural evidence for emotion-enhanced perceptual vividness](https://www.jneurosci.org/content/32/33/11201.short) __Journal of Neuroscience__ 32 (33), 11201-11212.
+
 `2010`
 West, G.L., Al-Aidroos, N., Susskind, J.M., and Pratt, J. (2010). [Emotion and Action: The Effect of Fear on Saccadic Performance.](https://link.springer.com/article/10.1007/s00221-010-2508-8) __Experimental Brain Research__.
 
@@ -121,6 +132,18 @@ Aviezer, H., Ran, H., Ryan, J., Grady, C., Susskind, J.M., Anderson, A.K., and M
 Susskind, J.M., Littlewort, G., Bartlett, M.S., Movellan, J.R., and Anderson, A.K. (2007). [Human and computer recognition of facial expressions of emotion.](https://www.sciencedirect.com/science/article/pii/S0028393206001746) __Neuropsychologia__ 45(1), p. 152-162.
 
 ### Conferences
+
+`2017`
+Shrivastava, A., Pfister, T., Tuzel, O., Susskind, J.M., Wang, W., and Webb, R. (2017). [Learning from simulated and unsupervised images through adversarial training.](https://openaccess.thecvf.com/content_cvpr_2017/html/Shrivastava_Learning_From_Simulated_CVPR_2017_paper.html) __Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)__, 2017, pp. 2107-2116.
+
+`2013`
+Ranzato, M.A., Mnih, V., Susskind, J.M., and Hinton, G.E. (2013). [Modeling natural images using gated MRFs](https://ieeexplore.ieee.org/abstract/document/6420839) __IEEE transactions on pattern analysis and machine intelligence (PAMI)__ 35 (9), 2206-2222.
+
+`2012` Deriso, D.M., Susskind, J.M., Krieger, L., and Bartlett, M. (2012). [Emotion mirror: a novel intervention for autism based on real-time expression recognition](https://link.springer.com/chapter/10.1007/978-3-642-33885-4_79) __European Conference on Computer Vision (ECCV)__ 671-674.
+`2012`
+Sikka, K., Wu, T., Susskind, J.M., and Bartlett, M. (2012). [Exploring bag of words architectures in the facial expression domain.](https://link.springer.com/chapter/10.1007/978-3-642-33868-7_25) __European Conference on Computer Vision (ECCV)__ 250-259.
+`2012`
+Deriso, D.M., Susskind, J.M., Tanaka, J., Winkielman, P., Herrington, J., Schultz, R., and Bartlett, M. (2012). [Exploring the facial expression perception-production link using real-time automated facial expression recognition.](https://link.springer.com/chapter/10.1007/978-3-642-33868-7_27) __European Conference on Computer Vision (ECCV)__ 270-279.
 
 `2011`
 Susskind, J.M., Memisevic, R., Hinton, G.E., & Pollefeys, M. (2011). [Modeling the joint density of two images under a variety of transformations.](https://ieeexplore.ieee.org/abstract/document/5995541) __Proc. of Computer Vision and Pattern Recognition Conference (CVPR 2011)__, Colarodo Springs, 2011.
@@ -145,6 +168,10 @@ Littlewort, G., Bartlett, M. S., Fasel, I., Susskind, J.M., and Movellan, J.R. (
 `2011`
 Deriso, D., Susskind, J.M., Tanaka, J., Herrington, J., Schultz, R., & Bartlett, M.S. (2011). The Emotion Mirror: A Novel Intervention for Facial Expression Production and Perception Training for Children with Autism. __Vision Science Society__, Naples, FL.
 
+`2010`
+Lee, D.H., Susskind, J.M., and Anderson, A.K. (2010). [Fear expressions enhance eye gaze discrimination.](https://jov.arvojournals.org/article.aspx?articleid=2138749) __Journal of Vision__ 10 (7), 630-630.
+`2010`
+Susskind, J.M., Anderson, A.K., and Hinton, G.E. (2010). [Turn that frown upside-down! Inferring facial actions from pairs of images in a neurally plausible computational model.](https://jov.arvojournals.org/article.aspx?articleid=2138787) __Journal of Vision__ 10 (7), 666-666.
 `2009`
 Susskind, J.M., Anderson, A.K. (2009). An opponent-process model of facial expression perception. __Society for Neuroscience__, Chicago, IL.
 
@@ -189,10 +216,12 @@ Littlewort, G., Fasel, I., Susskind, J.M., Carlson, E., Cole, R., and Movellan, 
 
 ### Technical Reports
 
+`2010`
+Susskind, J.M., Anderson, A.K., and Hinton, G.E. (2010). The Toronto face dataset. Technical Report UTML TR 2010-001, U. Toronto.
 ### Book Chapters
 
 `2008`
-Susskind, J.M., Hinton, G.E., Movellan, J.R., and Anderson, A.K. (2008). Generating Facial Expressions with Deep Belief Nets. __J. Or (ed.) Affective Computing, Focus on Emotion Expression, Synthesis and Recognition.__ ARS / I-tech Publishers.
+Susskind, J.M., Hinton, G.E., Movellan, J.R., and Anderson, A.K. (2008). [Generating Facial Expressions with Deep Belief Nets.](https://www.cs.toronto.edu/~hinton/absps/joshfacechapter.pdf) __J. Or (ed.) Affective Computing, Focus on Emotion Expression, Synthesis and Recognition.__ ARS / I-tech Publishers.
 
 ### Dissertation
 
