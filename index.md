@@ -97,41 +97,13 @@ __Instructor, Honours Statistics, University of Toronto, Department of Psycholog
 
 <!-- A list is also available [online](https://scholar.google.com/citations?hl=en&user=Sv2TGqsAAAAJ) -->
 
-### Journals
-
-`2017`
-Chapman, H.A., Lee, D.H., Susskind, J.M., Bartlett, M.S., and Anderson, A.K. (2017). [The face of distaste: a preliminary study.](https://academic.oup.com/chemse/article/42/6/457/3806673?login=true) __Chemical senses 42__ (6), 457-463.
-
-`2014`
-Lee, D.H., Susskind, J.M., and Anderson, A.K. (2014). [Social transmission of the sensory benefits of eye widening in fear expressions.](https://journals.sagepub.com/doi/abs/10.1177/0956797612464500) __Psychological science__ 24 (6), 957-965.
-
-`2013`
-Todd, R.M., Schmitz, T.W., Susskind, J.M., and Anderson, A.K. (2013). [Shared neural substrates of emotionally enhanced perceptual and mnemonic vividness.](https://www.frontiersin.org/articles/10.3389/fnbeh.2013.00040/full) __Frontiers in behavioral neuroscience__ 7, 40.
-`2012`
-Todd, R.M., Talmi, D., Schmitz, T.W., Susskind, J.M., and Anderson, A.K. (2012). [Psychophysical and neural evidence for emotion-enhanced perceptual vividness](https://www.jneurosci.org/content/32/33/11201.short) __Journal of Neuroscience__ 32 (33), 11201-11212.
-
-`2010`
-West, G.L., Al-Aidroos, N., Susskind, J.M., and Pratt, J. (2010). [Emotion and Action: The Effect of Fear on Saccadic Performance.](https://link.springer.com/article/10.1007/s00221-010-2508-8) __Experimental Brain Research__.
-
-`2009`
-Chapman, H.A., Kim, D.A., Susskind, J.M, and Anderson, A.K. (2009). [In Bad Taste: Evidence for the Oral Origins of Moral Disgust.](https://www.science.org/doi/abs/10.1126/science.1165565) __Science__ 323(5918), p. 1222-1226.
-
-`2008`
-Susskind, J.M., and Anderson, A.K. (2008). [Facial expression form and function.](https://www.tandfonline.com/doi/abs/10.4161/cib.1.2.6999) __Communicative and Integrative Biology__ 1(2).
-
-`2008`
-Susskind, J.M., Lee, D.H., Cusi, A., Feiman, R., Grabski, W., and Anderson, A.K. (2008). [Expressing fear enhances sensory acquisition.](https://www.nature.com/articles/nn.2138?mod=article_inline) __Nature Neuroscience__ 11, p. 843-850.
-
-`2008`
-Ellamil, M., Susskind, J.M., and Anderson, A.K. (2008). [Examinations of identity invariance in facial expression adaptation.](https://link.springer.com/article/10.3758/CABN.8.3.273) __Cognitive, Affective, and Behavioral Neuroscience__ 8(3), p.273-281.
-
-`2008`
-Aviezer, H., Ran, H., Ryan, J., Grady, C., Susskind, J.M., Anderson, A.K., and Moscovitch, M. (2008). [Angry, Disgusted or Afraid? Studies on the Malleability of Facial Expression Perception.](https://journals.sagepub.com/doi/abs/10.1111/j.1467-9280.2008.02148.x) __Psychological Science__ 19(1), p. 724-732.
-
-`2007`
-Susskind, J.M., Littlewort, G., Bartlett, M.S., Movellan, J.R., and Anderson, A.K. (2007). [Human and computer recognition of facial expressions of emotion.](https://www.sciencedirect.com/science/article/pii/S0028393206001746) __Neuropsychologia__ 45(1), p. 152-162.
-
 ### Conferences
+
+`2022`
+Zhang, R., Zhai, S., Littwin, E., and Susskind, J.M. (2022). [Learning Representation from Neural Fisher Kernel with Low-rank Approximation](https://openreview.net/forum?id=J1rhANsCY9). __International Conference on Learning Representations (ICLR)__ 2022.
+
+`2022`
+Guo, P., Martin, M.B., Colburn, A., Yang, L., Ulbricht, D., Susskind, J.M., and Shan, Q. (2022). [Fast and Explicit Neural View Synthesis.](https://openaccess.thecvf.com/content/WACV2022/html/Guo_Fast_and_Explicit_Neural_View_Synthesis_WACV_2022_paper.html) __Winter Applications in Computer Vision (WACV)__ 2022.
 
 `2021`
 Wu, Y., Zhai, S., Srivastava, N., Susskind, J.M., Zhang, J., Salakhutdinov, R., and Goh, H. (2021). [Uncertainty Weighted Actor-Critic for Offline Reinforcement Learning.](https://arxiv.org/abs/2105.08140) __International Conference on Machine Learning (ICML)__, 2021.
@@ -192,7 +164,50 @@ Movellan, J.R, Hershey, J., and Susskind, J.M. (2004). Large Scale Convolutional
 `2004`
 Littlewort, G., Bartlett, M. S., Fasel, I., Susskind, J.M., and Movellan, J.R. (2004). Dynamics of Facial Expression Extracted Automatically from Video. __Computer Vision and Pattern Recognition__. 2004.
 
+### Journals
+
+`2017`
+Chapman, H.A., Lee, D.H., Susskind, J.M., Bartlett, M.S., and Anderson, A.K. (2017). [The face of distaste: a preliminary study.](https://academic.oup.com/chemse/article/42/6/457/3806673?login=true) __Chemical senses 42__ (6), 457-463.
+
+`2014`
+Lee, D.H., Susskind, J.M., and Anderson, A.K. (2014). [Social transmission of the sensory benefits of eye widening in fear expressions.](https://journals.sagepub.com/doi/abs/10.1177/0956797612464500) __Psychological science__ 24 (6), 957-965.
+
+`2013`
+Todd, R.M., Schmitz, T.W., Susskind, J.M., and Anderson, A.K. (2013). [Shared neural substrates of emotionally enhanced perceptual and mnemonic vividness.](https://www.frontiersin.org/articles/10.3389/fnbeh.2013.00040/full) __Frontiers in behavioral neuroscience__ 7, 40.
+`2012`
+Todd, R.M., Talmi, D., Schmitz, T.W., Susskind, J.M., and Anderson, A.K. (2012). [Psychophysical and neural evidence for emotion-enhanced perceptual vividness](https://www.jneurosci.org/content/32/33/11201.short) __Journal of Neuroscience__ 32 (33), 11201-11212.
+
+`2010`
+West, G.L., Al-Aidroos, N., Susskind, J.M., and Pratt, J. (2010). [Emotion and Action: The Effect of Fear on Saccadic Performance.](https://link.springer.com/article/10.1007/s00221-010-2508-8) __Experimental Brain Research__.
+
+`2009`
+Chapman, H.A., Kim, D.A., Susskind, J.M, and Anderson, A.K. (2009). [In Bad Taste: Evidence for the Oral Origins of Moral Disgust.](https://www.science.org/doi/abs/10.1126/science.1165565) __Science__ 323(5918), p. 1222-1226.
+
+`2008`
+Susskind, J.M., and Anderson, A.K. (2008). [Facial expression form and function.](https://www.tandfonline.com/doi/abs/10.4161/cib.1.2.6999) __Communicative and Integrative Biology__ 1(2).
+
+`2008`
+Susskind, J.M., Lee, D.H., Cusi, A., Feiman, R., Grabski, W., and Anderson, A.K. (2008). [Expressing fear enhances sensory acquisition.](https://www.nature.com/articles/nn.2138?mod=article_inline) __Nature Neuroscience__ 11, p. 843-850.
+
+`2008`
+Ellamil, M., Susskind, J.M., and Anderson, A.K. (2008). [Examinations of identity invariance in facial expression adaptation.](https://link.springer.com/article/10.3758/CABN.8.3.273) __Cognitive, Affective, and Behavioral Neuroscience__ 8(3), p.273-281.
+
+`2008`
+Aviezer, H., Ran, H., Ryan, J., Grady, C., Susskind, J.M., Anderson, A.K., and Moscovitch, M. (2008). [Angry, Disgusted or Afraid? Studies on the Malleability of Facial Expression Perception.](https://journals.sagepub.com/doi/abs/10.1111/j.1467-9280.2008.02148.x) __Psychological Science__ 19(1), p. 724-732.
+
+`2007`
+Susskind, J.M., Littlewort, G., Bartlett, M.S., Movellan, J.R., and Anderson, A.K. (2007). [Human and computer recognition of facial expressions of emotion.](https://www.sciencedirect.com/science/article/pii/S0028393206001746) __Neuropsychologia__ 45(1), p. 152-162.
+
 ### Workshops, Posters and Demos
+
+`2021`
+Srivastava, N., Talbott, W., Zhai, S., and Susskind, J.M. (2021). [Robust Robotic Control from Pixels using Contrastive Recurrent State-Space Models.](https://arxiv.org/abs/2112.01163) __NeurIPS 2021 Deep Reinforcement Learning Workshop__.
+
+`2021`
+Littwin, E., Saremi, O., Zhai, S., Thilak, V., Goh, H., Susskind, J.M., and Yang, G. (2021). [Implicit Acceleration and Feature Learning in Infinitely Wide Neural Networks with Bottlenecks.](https://arxiv.org/abs/2107.00364) __ICML Overparameterization Workshop__ 2021.
+
+`2021`
+Sun, S., Thilak, V., Littwin, E., Saremi, O., and Susskind, J.M. (2021). [Implicit Greedy Rank Learning in Autoencoders via Overparameterized Linear Networks.](https://arxiv.org/abs/2107.01301) __ICML Overparameterization Workshop__ 2021.
 
 `2020`
 Wu, Y., Zhai, S., Srivastava, N., Susskind, J.M., Zhang, J., Salakhutdinov, R., and Goh, H. (2020). [Uncertainty Weighted Offline Reinforcement Learning.](https://offline-rl-neurips.github.io/program/offrl_27.html) __NeurIPS Offline Reinforcement Learning Workshop 2020__.
@@ -250,6 +265,9 @@ Susskind, J.M., Movellan, J.R., and Hershey J. (2003). Real-time Object Recognit
 Littlewort, G., Fasel, I., Susskind, J.M., Carlson, E., Cole, R., and Movellan, J.R. (2002). Emotion Mirror Demonstration. __Neural Information Processing Systems__, Vancouver, Canada.
 
 ### Technical Reports
+
+`2021`
+Ton, J.F., Talbott, W., Zhai, S., and Susskind, J.M. (2021). [Regularized Training of Nearest Neighbor Language Models](https://arxiv.org/abs/2109.08249). arXiv Tech Report 2021.
 
 `2021`
 Zhai, S., Talbott, Srivastava, N., Huang, C., Goh, H., Zhang, R., and Susskind, J.M. (2021). [An Attention Free Transformer.](https://arxiv.org/abs/2105.14103) arXiv Tech Report 2021.
