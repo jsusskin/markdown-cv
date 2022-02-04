@@ -133,6 +133,17 @@ Susskind, J.M., Littlewort, G., Bartlett, M.S., Movellan, J.R., and Anderson, A.
 
 ### Conferences
 
+`2021`
+DeVries, T., Bautista, M.A., Srivastava, N., Taylor, G.W., and Susskind, J.M. (2021). [Unconstrained scene generation with locally conditioned radiance fields.](https://arxiv.org/abs/2104.00670) __International Conference on Computer Vision (ICCV)__ 2021.
+
+Proceedings of the IEEE/CVF International Conference on Computer Vision …
+
+`2021`
+Bautista, M.A., Talbott, W., Zhai, S., Srivastava, N., and Susskind, J.M. (2021). [On the generalization of learning-based 3d reconstruction.](https://arxiv.org/abs/2006.15427) __Winter Applications of Computer Vision (WACV)__ 2021.
+
+`2020`
+Dupont, E., Martin,  M.B., Colburn, A., Sankar, A., Susskind, J.M., and Shan, Q. (2020). [Equivariant neural rendering.](http://proceedings.mlr.press/v119/dupont20a.html) __International Conference on Machine Learning (ICML)__, 2761-2770.
+
 `2020`
 Littwin, E., Myara, B., Sabah, S., Susskind, J.M., Zhai, S., and Golan, O. (2020). [Collegial ensembles.](https://proceedings.neurips.cc/paper/2020/hash/d958628e70134d9e1e17499a9d815a71-Abstract.html) __Advances in Neural Information Processing Systems (NeurIPS)__ 33, 18738-18748.
 
