@@ -122,7 +122,63 @@ Susskind, J.M., Littlewort, G., Bartlett, M.S., Movellan, J.R., and Anderson, A.
 
 ### Conferences
 
+`2011`
+Susskind, J.M., Memisevic, R., Hinton, G.E., & Pollefeys, M. (2011). [Modeling the joint density of two images under a variety of transformations.](https://ieeexplore.ieee.org/abstract/document/5995541) __Proc. of Computer Vision and Pattern Recognition Conference (CVPR 2011)__, Colarodo Springs, 2011.
+
+`2011`
+Ranzato, M., Susskind, J.M., Mnih, V., & Hinton, G.E. (2011). [On Deep Generative Models with Applications to Recognition.](https://ieeexplore.ieee.org/abstract/document/5995710) __Proc. of Computer Vision and Pattern Recognition Conference (CVPR 2011)__, Colarodo Springs, 2011.
+
+`2008`
+Nair, V., Susskind, J.M., and Hinton, G.E. (2008). [Analysis-by-synthesis by Learning to Invert Generative Black Boxes.](https://link.springer.com/chapter/10.1007/978-3-540-87536-9_99) __Artificial Neural Networks – ICANN__ 2008.
+
+`2006`
+Littlewort, G., Bartlett, M., Fasel, I., Susskind, J.M., and Movellan, J.R. (2006). An automatic system for measuring facial expression in video. __Image and Vision Computing__ 24(6), p. 615-625.
+
+`2004`
+Movellan, J.R, Hershey, J., and Susskind, J.M. (2004). Large Scale Convolutional HMMs for Real Time Video Tracking. __Proc. of Computer Vision and Pattern Recognition Conference (CVPR 2004)__. 2004.
+
+`2004`
+Littlewort, G., Bartlett, M. S., Fasel, I., Susskind, J.M., and Movellan, J.R. (2004). Dynamics of Facial Expression Extracted Automatically from Video. __Computer Vision and Pattern Recognition__. 2004.
+
+### Workshops, Posters and Demos
+
+Deriso, D., Susskind, J.M., Tanaka, J., Herrington, J., Schultz, R., & Bartlett, M.S. (2011). The Emotion Mirror: A Novel Intervention for Facial Expression Production and Perception Training for Children with Autism. Vision Science Society, Naples, FL.
+
+Susskind, J.M., Anderson, A.K. (2009). An opponent-process model of facial expression perception. Society for Neuroscience, Chicago, IL.
+
+Susskind, J.M., Hinton, G.E., and Anderson, A.K. (2008). Facial expression representation in deep belief networks. Society for Neuroscience, Washington, D.C.
+
+Susskind, J.M., Ellamil, M., and Anderson, A.K. (2008). Emotional anti-faces: Recognition of facial expressions and their statistical opposites. 2008 Annual CNS Meeting, San Francisco, CA.
+
+West, G.L., Susskind, J.M., Anderson, A.K., & Pratt, J. (2007). Differential Prior Entry Effects are Produced by Schematic and Photographic Faces. 48th Annual Meeting of the Psychonomic Society, Long Beach, CA.
+
+Susskind, J.M., Lee, D., Cusi, A., & Anderson, A.K. (2007). Facing danger: Opposition in facial expression form reflects opposing sensory function. Society for Neuroscience, San Diego, CA.
+
+Nair, V., Susskind, J.M., and Hinton, G.E. (2007). Inverting generative black boxes with breeder learning. CVR Conference 2007, York University, Toronto, Ontario, Canada.
+
+Susskind, J.M., Movellan, J.R., Bartlett, M.S., Littlewort, G., and Anderson, A.K. (2007). Primary and secondary emotions: a computational analysis of facial expression structure and meaning. 2007 Annual CNS Meeting, New York, NY.
+
+Susskind, J.M., and Anderson, A.K. (2006). Structural similarity and antithesis in facial expressions. Collaborative Program in Neuroscience, University of Toronto, 2006 Poster Day.
+
+Susskind, J.M., and Anderson, A.K. (2006). Evidence for structural similarity and antithesis in facial expressions. 2006 Annual CNS Meeting, San Francisco, CA.
+
+Susskind, J.M., Movellan, J.R., Bartlett, M.S., Littlewort, G., and Anderson, A.K. (2005). Comparison of Human and Computer Recognition of Facial Emotion. 2005 Annual CNS Meeting, New York, NY.
+
+Susskind, J.M., Hershey, J., and Movellan, J.R. (2004). Exact Inference in Robots Using Topographic Uncertainty Maps. Third International Conference on Development and Learning.
+
+Susskind, J.M., Hershey, J., Fasel, I., Movellan, J.R. (2003). Real-time, Adaptive, Color-based Object Tracking Using Generative Models. Joint Symposium on Neural Computation, Irvine, CA.
+
+Susskind, J.M., Movellan, J.R., and Hershey J. (2003). Real-time Object Recognition Demonstration. Neural Information Processing Systems, Vancouver, Canada.
+
+Littlewort, G., Fasel, I., Susskind, J.M., Carlson, E., Cole, R., and Movellan, J.R. (2002). Emotion Mirror Demonstration. Neural Information Processing Systems, Vancouver, Canada.
+
 ### Technical Reports
+
+### Book Chapters
+
+### Dissertation
+
+Susskind, J.M. (2011). Interpreting Faces with Neurally Inspired Generative Models. http://hdl.handle.net/1807/29884.
 
 ### Patents
 
