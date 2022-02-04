@@ -134,9 +134,18 @@ Susskind, J.M., Littlewort, G., Bartlett, M.S., Movellan, J.R., and Anderson, A.
 ### Conferences
 
 `2021`
+Wu, Y., Zhai, S., Srivastava, N., Susskind, J.M., Zhang, J., Salakhutdinov, R., and Goh, H. (2021). [Uncertainty Weighted Actor-Critic for Offline Reinforcement Learning.](https://arxiv.org/abs/2105.08140) __International Conference on Machine Learning (ICML)__, 2021.
+
+`2021`
+Roberts, M., Ramapuram, J., Martin, M.B., Kumar, A., Ranjan, A., Susskind, J.M., and Webb, R. (2021). [Hypersim: A Photorealistic Synthetic 
+Dataset for Holistic Indoor Scene Understanding.](https://arxiv.org/abs/2011.02523) __International Conference on Computer Vision (ICCV)__ 2021.
+
+`2021`
 DeVries, T., Bautista, M.A., Srivastava, N., Taylor, G.W., and Susskind, J.M. (2021). [Unconstrained scene generation with locally conditioned radiance fields.](https://arxiv.org/abs/2104.00670) __International Conference on Computer Vision (ICCV)__ 2021.
 
-Proceedings of the IEEE/CVF International Conference on Computer Vision …
+`2021`
+Huang, C., Zhai, S., Guo, P., and Susskind, J.M. (2021). [MetricOpt: Learning to Optimize Black-Box Evaluation Metrics.](https://openaccess.thecvf.com/content/CVPR2021/html/Huang_MetricOpt_Learning_To_Optimize_Black-Box_Evaluation_Metrics_CVPR_2021_paper.html)
+__Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)__.
 
 `2021`
 Bautista, M.A., Talbott, W., Zhai, S., Srivastava, N., and Susskind, J.M. (2021). [On the generalization of learning-based 3d reconstruction.](https://arxiv.org/abs/2006.15427) __Winter Applications of Computer Vision (WACV)__ 2021.
@@ -241,6 +250,9 @@ Susskind, J.M., Movellan, J.R., and Hershey J. (2003). Real-time Object Recognit
 Littlewort, G., Fasel, I., Susskind, J.M., Carlson, E., Cole, R., and Movellan, J.R. (2002). Emotion Mirror Demonstration. __Neural Information Processing Systems__, Vancouver, Canada.
 
 ### Technical Reports
+
+`2021`
+Zhai, S., Talbott, Srivastava, N., Huang, C., Goh, H., Zhang, R., and Susskind, J.M. (2021). [An Attention Free Transformer.](https://arxiv.org/abs/2105.14103) arXiv Tech Report 2021.
 
 `2020`
 Zhai, S., Talbott, W., Bautista, M.A. , Guestrin, C., and Susskind, J.M. (2020). [Set Distribution Networks: a Generative Model for Sets of Images.](https://arxiv.org/abs/2006.10705) arXiv preprint arXiv:2006.10705
