@@ -133,6 +133,15 @@ Susskind, J.M., Littlewort, G., Bartlett, M.S., Movellan, J.R., and Anderson, A.
 
 ### Conferences
 
+`2020`
+Littwin, E., Myara, B., Sabah, S., Susskind, J.M., Zhai, S., and Golan, O. (2020). [Collegial ensembles.](https://proceedings.neurips.cc/paper/2020/hash/d958628e70134d9e1e17499a9d815a71-Abstract.html) __Advances in Neural Information Processing Systems (NeurIPS)__ 33, 18738-18748.
+
+`2019`
+Huang, C., Zhai, S., Talbott, W., Martin, M.B, Sun, S., Guestrin, C., and Susskind, J.M. (2019). [Addressing the loss-metric mismatch with adaptive loss alignment.](http://proceedings.mlr.press/v97/huang19f.html) __International conference on machine learning (ICML)__, 2891-2900.
+
+`2019`
+Zhai, S., Talbott, W., Guestrin, C., and Susskind, J.M. (2019). [Adversarial fisher vectors for unsupervised representation learning.](https://proceedings.neurips.cc/paper/2019/hash/7e1cacfb27da22fb243ff2debf4443a0-Abstract.html) __Advances in Neural Information Processing Systems (NeurIPS)__ 32.
+
 `2017`
 Shrivastava, A., Pfister, T., Tuzel, O., Susskind, J.M., Wang, W., and Webb, R. (2017). [Learning from simulated and unsupervised images through adversarial training.](https://openaccess.thecvf.com/content_cvpr_2017/html/Shrivastava_Learning_From_Simulated_CVPR_2017_paper.html) __Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)__, 2017, pp. 2107-2116.
 
@@ -164,6 +173,9 @@ Movellan, J.R, Hershey, J., and Susskind, J.M. (2004). Large Scale Convolutional
 Littlewort, G., Bartlett, M. S., Fasel, I., Susskind, J.M., and Movellan, J.R. (2004). Dynamics of Facial Expression Extracted Automatically from Video. __Computer Vision and Pattern Recognition__. 2004.
 
 ### Workshops, Posters and Demos
+
+`2019`
+El-Nouby, A., Zhai, S., Taylor, G.W., and Susskind, J.M. (2019). [Skip-clip: Self-supervised spatiotemporal representation learning by future clip order ranking.](https://arxiv.org/abs/1910.12770) __ICCV Workshop on Large Scale Holistic Video Understanding 2019__.
 
 `2011`
 Deriso, D., Susskind, J.M., Tanaka, J., Herrington, J., Schultz, R., & Bartlett, M.S. (2011). The Emotion Mirror: A Novel Intervention for Facial Expression Production and Perception Training for Children with Autism. __Vision Science Society__, Naples, FL.
@@ -215,6 +227,9 @@ Susskind, J.M., Movellan, J.R., and Hershey J. (2003). Real-time Object Recognit
 Littlewort, G., Fasel, I., Susskind, J.M., Carlson, E., Cole, R., and Movellan, J.R. (2002). Emotion Mirror Demonstration. __Neural Information Processing Systems__, Vancouver, Canada.
 
 ### Technical Reports
+
+`2020`
+Zhai, S., Talbott, W., Bautista, M.A. , Guestrin, C., and Susskind, J.M. (2020). [Set Distribution Networks: a Generative Model for Sets of Images.](https://arxiv.org/abs/2006.10705) arXiv preprint arXiv:2006.10705
 
 `2010`
 Susskind, J.M., Anderson, A.K., and Hinton, G.E. (2010). The Toronto face dataset. Technical Report UTML TR 2010-001, U. Toronto.
