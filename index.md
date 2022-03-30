@@ -198,6 +198,9 @@ __Susskind, J.M.__, Littlewort, G., Bartlett, M.S., Movellan, J.R., and Anderson
 
 ### Workshops, Posters and Demos
 
+`2022`
+Thilak, V., Littwin, E., Zhai, S., Saremi, O., and __Susskind, J.M.__ (2022). [Overfitting in Transformers – The Slingshot Mechanism.](http://topml.rice.edu/schedule/) __|Workshop on the Theory of Overparameterized Machine Learning (TOPML) 2022__.
+
 `2021`
 Srivastava, N., Talbott, W., Zhai, S., and __Susskind, J.M.__ (2021). [Robust Robotic Control from Pixels using Contrastive Recurrent State-Space Models.](https://arxiv.org/abs/2112.01163) __NeurIPS 2021 Deep Reinforcement Learning Workshop__.
 
