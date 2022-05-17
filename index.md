@@ -96,6 +96,12 @@ __Instructor, Honours Statistics, University of Toronto, Department of Psycholog
 ### Conferences
 
 `2022`
+Huang, C., Talbott, W., Jaitly, N., and __Susskind, J.M.__ (2022). [Efficient Representation Learning via Adaptive Context Pooling](#). __International Conference on Machine Learning (ICML)__ 2022.
+
+`2022`
+Zhai, S., Jaitly, N., Ramapuram, J., Busbridge, D., Likhomanenko, T., Cheng, J., Talbott, W., Huang, C., Goh. H., and __Susskind, J.M.__ (2022). [Position Prediction as an Effective Pretraining Strategy](#). __International Conference on Machine Learning (ICML)__ 2022.
+
+`2022`
 Zhang, R., Zhai, S., Littwin, E., and __Susskind, J.M.__ (2022). [Learning Representation from Neural Fisher Kernel with Low-rank Approximation](https://openreview.net/forum?id=J1rhANsCY9). __International Conference on Learning Representations (ICLR)__ 2022.
 
 `2022`
